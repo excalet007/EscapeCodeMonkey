@@ -1,0 +1,6 @@
+﻿  chrono.cpp
+c:\users\orcknight\desktop\git\codemonkey\c++\ch9\classisusefulwepontobethecodemaster\chrono.cpp(201): error C2440: '형식 캐스트': 'Chrono::Month (__thiscall Chrono::Date::* )(void) const'에서 'int'(으)로 변환할 수 없습니다.
+  c:\users\orcknight\desktop\git\codemonkey\c++\ch9\classisusefulwepontobethecodemaster\chrono.cpp(201): note: 이 변환이 가능한 컨텍스트가 없습니다.
+c:\users\orcknight\desktop\git\codemonkey\c++\ch9\classisusefulwepontobethecodemaster\chrono.cpp(201): error C3867: 'Chrono::Date::day': 비표준 구문입니다. '&'를 사용하여 멤버 포인터를 만드세요.
+c:\users\orcknight\desktop\git\codemonkey\c++\ch9\classisusefulwepontobethecodemaster\chrono.cpp(201): error C2446: '<': 'int'에서 'int (__thiscall Chrono::Date::* )(void) const'(으)로 변환되지 않았습니다.
+  c:\users\orcknight\desktop\git\codemonkey\c++\ch9\classisusefulwepontobethecodemaster\chrono.cpp(201): note: 정수 계열 값에서 멤버 포인터 값으로의 변환이 없습니다.

@@ -1,0 +1,3 @@
+﻿  NowWeCanUnderstandIOStream.cpp
+c:\users\orcknight\desktop\git\codemonkey\c++\ch10\nowwecanunderstandiostream\nowwecanunderstandiostream.cpp(75): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  NowWeCanUnderstandIOStream.vcxproj -> C:\Users\orcknight\Desktop\Git\CodeMonkey\C++\ch10\NowWeCanUnderstandIOStream\Debug\NowWeCanUnderstandIOStream.exe

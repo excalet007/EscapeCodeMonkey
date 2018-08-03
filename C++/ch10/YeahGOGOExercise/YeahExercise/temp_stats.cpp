@@ -28,7 +28,7 @@ double Get_median(vector<Reading>& vr)
 	double sum{ 0 };
 	int f;
 	int b;
-
+	
 	if (vr.size() == 1)
 	{
 		if (vr[0].is_celcius) sum += Get_FahFromCel(vr[0].temperature);

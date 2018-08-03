@@ -7,6 +7,7 @@ using namespace std;
 
 int main()
 {
+	//Reading 읽기
 	vector<Reading> readings;
 	ofstream file;
 	file.open(testPath);
@@ -19,6 +20,7 @@ int main()
 
 	file.close();
 
+	//Text file 읽어서 temp 변환
 	vector<Reading> readings2;
 
 	ifstream file2;

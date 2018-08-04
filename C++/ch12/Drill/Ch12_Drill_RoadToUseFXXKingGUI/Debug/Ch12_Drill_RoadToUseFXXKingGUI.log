@@ -1,0 +1,9 @@
+﻿  mainProgram.cpp
+c:\users\orcknight\desktop\git\codemonkey\c++\ch12\drill\ch12_drill_roadtousefxxkinggui\gui.h(107): warning C4018: '<': signed/unsigned mismatch
+c:\users\orcknight\desktop\git\codemonkey\c++\ch12\drill\ch12_drill_roadtousefxxkinggui\gui.h(112): warning C4018: '<': signed/unsigned mismatch
+c:\users\orcknight\desktop\git\codemonkey\c++\ch12\drill\ch12_drill_roadtousefxxkinggui\gui.h(117): warning C4018: '<': signed/unsigned mismatch
+c:\users\orcknight\desktop\git\codemonkey\c++\ch12\drill\ch12_drill_roadtousefxxkinggui\graph.h(104): warning C4018: '<': signed/unsigned mismatch
+  c:\users\orcknight\desktop\git\codemonkey\c++\ch12\drill\ch12_drill_roadtousefxxkinggui\graph.h(104): note: while compiling class template member function 'Graph_lib::Vector_ref<Graph_lib::Button>::~Vector_ref(void)'
+  c:\users\orcknight\desktop\git\codemonkey\c++\ch12\drill\ch12_drill_roadtousefxxkinggui\gui.h(97): note: see reference to function template instantiation 'Graph_lib::Vector_ref<Graph_lib::Button>::~Vector_ref(void)' being compiled
+  c:\users\orcknight\desktop\git\codemonkey\c++\ch12\drill\ch12_drill_roadtousefxxkinggui\gui.h(99): note: see reference to class template instantiation 'Graph_lib::Vector_ref<Graph_lib::Button>' being compiled
+  Ch12_Drill_RoadToUseFXXKingGUI.vcxproj -> C:\Users\orcknight\Desktop\Git\CodeMonkey\C++\ch12\Drill\Ch12_Drill_RoadToUseFXXKingGUI\Debug\Ch12_Drill_RoadToUseFXXKingGUI.exe
